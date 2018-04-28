@@ -6,8 +6,8 @@
 NanoVGo
 ===================================
 
-.. image:: https://godoc.org/github.com/shibukawa/nanovgo?status.svg
-   :target: https://godoc.org/github.com/shibukawa/nanovgo
+.. image:: https://godoc.org/github.com/gyrolab/nanovgo?status.svg
+   :target: https://godoc.org/github.com/gyrolab/nanovgo
 
 .. raw:: html
 
@@ -32,12 +32,12 @@ It is depend on cross platform `OpenGL/WebGL library <https://github.com/goxjs/g
 API Reference
 ---------------
 
-See `GoDoc <https://godoc.org/github.com/shibukawa/nanovgo>`_
+See `GoDoc <https://godoc.org/github.com/gyrolab/nanovgo>`_
 
 Author
 ---------------
 
-* `Yoshiki Shibukawa <https://github.com/shibukawa>`_
+* `Yoshiki Shibukawa <https://github.com/gyrolab>`_
 
 License
 ----------

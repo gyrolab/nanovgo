@@ -4,8 +4,9 @@ package nanovgo
 
 import (
 	"encoding/binary"
-	"honnef.co/go/js/console"
 	"math"
+
+	"honnef.co/go/js/console"
 )
 
 var shaderHeader string = `

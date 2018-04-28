@@ -3,8 +3,9 @@ package nanovgo
 import (
 	"errors"
 	"fmt"
-	"github.com/goxjs/gl"
 	"strings"
+
+	"github.com/goxjs/gl"
 )
 
 const (

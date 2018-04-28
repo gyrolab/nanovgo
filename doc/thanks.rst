@@ -17,7 +17,7 @@ The following guys helped me on Twitter about OpenGL:
 * @hagat
 * @h_doxas
 
-The following guys helped me on Qiita to implement `zero copy slice type casting <https://github.com/shibukawa/nanovgo/blob/master/platform_other.go#L22-L27>`_:
+The following guys helped me on Qiita to implement `zero copy slice type casting <https://github.com/gyrolab/nanovgo/blob/master/platform_other.go#L22-L27>`_:
 
 * @hnakamur2
 * @mattn_jp
